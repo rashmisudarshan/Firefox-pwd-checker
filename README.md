@@ -29,8 +29,8 @@ The Password Breach Checker is a Firefox extension that integrates with your pas
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/password-breach-checker.git
-   cd password-breach-checker
+   git clone https://github.com/rashmisudarshan/Firefox-pwd-checker.git
+   cd Firefox-pwd-checker
    
 2. Install the dependencies:
 
